@@ -1,0 +1,3 @@
+My installer is 28 MB and Github supports maximum 25 MB
+
+Download the setup here: https://bit.ly/pykey
